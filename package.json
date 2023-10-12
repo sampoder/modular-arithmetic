@@ -1,0 +1,19 @@
+{
+  "name": "modular-arithmetic.js",
+  "version": "0.0.0",
+  "description": "JS implementation of a couple of modular arithmetic algorithms we learnt in CS70.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sampoder/modular-arithmetic.js.git"
+  },
+  "author": "@sampoder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sampoder/modular-arithmetic.js/issues"
+  },
+  "homepage": "https://github.com/sampoder/modular-arithmetic.js#readme"
+}
