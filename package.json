@@ -1,6 +1,6 @@
 {
   "name": "modular-arithmetic.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "JS implementation of a couple of modular arithmetic algorithms we learnt in CS70.",
   "main": "index.js",
   "scripts": {
